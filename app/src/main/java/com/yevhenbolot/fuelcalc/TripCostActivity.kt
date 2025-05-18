@@ -24,7 +24,8 @@ class TripCostActivity : AppCompatActivity() {
             val consumption = consumptionInput.text.toString().toDoubleOrNull()
             val price = priceInput.text.toString().toDoubleOrNull()
 
-            if (distance != null && consumption != null && price != null && distance > 0 && consumption > 0) {
+            if (distance != null && consumption != null && price != null && distance > 0 && consumption > 0
+                && consumption < 60) {
                 val cost = (distance / 100) * consumption * price
                 resultText.text = getString(R.string.trip_cost_result, cost)
                 resultText.visibility = TextView.VISIBLE

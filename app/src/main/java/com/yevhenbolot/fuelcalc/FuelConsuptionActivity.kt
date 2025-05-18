@@ -23,7 +23,7 @@ class FuelConsumptionActivity : AppCompatActivity() {
             val distance = distanceInput.text.toString().toDoubleOrNull()
             val fuel = fuelUsedInput.text.toString().toDoubleOrNull()
 
-            if (distance != null && fuel != null && distance > 0) {
+            if (distance != null && fuel != null && distance > 0 && distance > fuel) {
                 val consumption = (fuel / distance) * 100
                 val result = getString(R.string.result_format, consumption)
                 resultText.text = result
