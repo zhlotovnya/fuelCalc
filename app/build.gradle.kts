@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.yevhenbolot.fuelcalculator"
+    namespace = "com.yevhenbolot.fuelcalc"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.yevhenbolot.fuelcalculator"
+        applicationId = "com.yevhenbolot.fuelcalc"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

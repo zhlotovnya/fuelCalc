@@ -6,7 +6,7 @@
     <string name="result_format">Consumption: %.2f L/100 km</string>
     <string name="invalid_input">Please enter valid values</string>
     <string name="back_to_main">Back to main</string>
-    <string name="app_name">Fuel Calculators</string>
+    <string name="app_name">FuelCalc</string>
     <string name="language_uk">Language: Ukrainian</string>
     <string name="language_en">Language: English</string>
 

@@ -1,4 +1,4 @@
-package com.yevhenbolot.fuelcalculator
+package com.yevhenbolot.fuelcalc
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.yevhenbolot.fuelcalculator
+package com.yevhenbolot.fuelcalc
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle

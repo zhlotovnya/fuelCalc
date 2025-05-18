@@ -6,13 +6,13 @@
     <string name="result_format">Витрата: %.2f л/100 км</string>
     <string name="invalid_input">Введіть коректні значення</string>
     <string name="back_to_main">На головну</string>
-    <string name="app_name">Калькулятори палива</string>
+    <string name="app_name">FuelCalc</string>
     <string name="language_uk">Мова: Українська</string>
     <string name="language_en">Мова: Англійська</string>
 
     <string name="main_title">КАЛЬКУЛЯТОРИ ПАЛИВА</string>
     <string name="calculators_section">КАЛЬКУЛЯТОРИ</string>
-    <string name="fuel_calculator_button">Калькулятор витрати палива\n(л/100 км)</string>
+    <string name="fuel_calculator_button">Калькулятор витрати палива \n(л/100 км)</string>
     <string name="trip_cost_button">Калькулятор вартості поїздки</string>
     <string name="other_section">ІНШЕ</string>
     <string name="fuel_tips_button">Поради щодо економії палива</string>
