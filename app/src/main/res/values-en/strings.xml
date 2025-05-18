@@ -1,0 +1,42 @@
+<resources>
+    <string name="fuel_calculator_title">Fuel Consumption Calculator</string>
+    <string name="distance_hint">Distance traveled (km)</string>
+    <string name="fuel_hint">Fuel used (L)</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="result_format">Consumption: %.2f L/100 km</string>
+    <string name="invalid_input">Please enter valid values</string>
+    <string name="back_to_main">Back to main</string>
+    <string name="app_name">Fuel Calculators</string>
+    <string name="language_uk">Language: Ukrainian</string>
+    <string name="language_en">Language: English</string>
+
+    <string name="main_title">FUEL CALCULATORS</string>
+    <string name="calculators_section">CALCULATORS</string>
+    <string name="fuel_calculator_button">Fuel Consumption Calculator\n(L/100 km)</string>
+    <string name="trip_cost_button">Trip Cost Calculator</string>
+    <string name="other_section">OTHER</string>
+    <string name="fuel_tips_button">Fuel Saving Tips</string>
+    <string name="about_app">About App</string>
+    <string name="exit">Exit</string>
+
+    <string name="trip_cost_title">Trip Cost Calculator</string>
+    <string name="trip_distance_hint">Distance (km)</string>
+    <string name="trip_fuel_consumption_hint">Fuel Consumption (L/100 km)</string>
+    <string name="trip_fuel_price_hint">Fuel Price (UAH/L)</string>
+    <string name="trip_calculate_button">Calculate</string>
+    <string name="trip_cost_result">Cost: %.2f UAH</string>
+    <string name="trip_invalid_input">Please enter valid values</string>
+
+    <string name="about_app_text">This app helps calculate fuel consumption.\n\nVersion: 1.0.0\nDeveloper: Yevhen Bolotov</string>
+    <string name="close_button">Close</string>
+
+    <string name="fuel_tips_title">Fuel Saving Tips</string>
+    <string name="fuel_tips_text">
+    • Don’t overspeed\n
+    • Check tire pressure\n
+    • Plan your route in advance\n
+    • Don’t overload your car\n
+    • Avoid sudden braking\n
+    • Use cruise control
+</string>
+</resources>
